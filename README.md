@@ -1,0 +1,3 @@
+# prizestennisLP
+
+ The Association of Tennis Professionals (ATP) distributes a considerable amount of money in prizes each year.  Studies have shown that only the top 100 ranked players can self-finance; hence, it is convenient to introduce changes to the prize distribution to promote a more sustainable system. A Linear Programming model to distribute the tournament's budget under a new concept for the fair distribution of prize money is proposed.  Additionally, to distribute the prizes, a function based on the effort of the players is designed. The model was applied to tournaments to demonstrate the impact on improving the player's prizes distribution.
